@@ -10,3 +10,10 @@ body {
 /* h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 } */
+
+.big-bar {
+    width: 1000px;
+    height: 100px;
+    background-color: #77ED4A;
+    text-align: center;
+}
